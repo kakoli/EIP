@@ -1,2 +1,2 @@
-# EIP2
-Assignments for EIP Phase2
+# EIP
+Assignments for EIP Phases 1,2
